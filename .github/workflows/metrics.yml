@@ -33,6 +33,6 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: lcaua901@gmail.com
+          plugin_anilist_user: .user.lcaua901@gmail.com
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
