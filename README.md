@@ -35,18 +35,11 @@
 <p align="center"><a href="https://twitter.com/SugoiDesuuU" target="_blank"><img src="https://img.shields.io/badge/SugoiDesuuU%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://instagram.com/_lucas_caua/" target="_blank"><img src="https://img.shields.io/badge/_lucas_caua-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/Owar1%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://twitch.tv/lillykali" target="_blank"><img src="https://img.shields.io/badge/Owar1%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
 
-## 🌼 Thank you 🌼
+## 🌼 More About
 
 <br>
 
-<p align="center"><b>Thanks for visiting<br>
-                     my profile ❤️</b></p>
-
-<br>
-  
-<div align="center">
-<img  src="https://aws1.discourse-cdn.com/wanikanicommunity/original/4X/d/f/9/df958db49ee75cb6068c1143b56cb46997b12fd8.gif" width="200px" align="center" />
-</div>
+![Metrics](/github-metrics.svg)
 
 <!---
 Owar1/Owar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
