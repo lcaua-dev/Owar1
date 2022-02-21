@@ -25,7 +25,6 @@ jobs:
           user: Owar1
           template: classic
           base: header, repositories
-          config_display: columns
           config_timezone: America/Fortaleza
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
