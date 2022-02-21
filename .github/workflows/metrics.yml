@@ -1,10 +1,10 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -12,4 +12,27 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: Owar1
+          template: classic
+          base: repositories
+          config_display: columns
+          config_timezone: America/Fortaleza
+          plugin_anilist: yes
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites
+          plugin_anilist_shuffle: yes
+          plugin_anilist_user: Sug0i
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
