@@ -38,14 +38,15 @@
 ## 🌼 More About
 
 <br>
-<p align="center">
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
-</p>
+
 <!---
 Owar1/Owar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!---
+<p align="center">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="450">
+</p>
 https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif
 --->
