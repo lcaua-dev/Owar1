@@ -21,9 +21,13 @@
 <br>
 <img  src="https://giphygifs.s3.amazonaws.com/media/1jgLDGD1Bn27e/giphy.gif" width="150px" align="right" />
 
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-python-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-html-5-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-javascript-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-git-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-tensorflow-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-django-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-github.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-google-cloud.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-bootstrap.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-visual-studio-code-2019.svg"  /> 
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-python-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-html-5-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-javascript-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-git-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-tensorflow-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-django-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-github.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-google-cloud.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-bootstrap.svg"  /><img /> 
 
-<img src="https://img.icons8.com/fluency/48/000000/opencv.svg"/> 
+<img src="https://img.icons8.com/fluency/48/000000/opencv.svg"  />  <img 
+src="https://img.icons8.com/fluency/48/000000/docker.svg"/>  <img 
+src="https://img.icons8.com/external-becris-flat-becris/45/000000/external-r-data-science-becris-flat-becris.png"/>  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.svg"/>   <img 
+src="https://img.icons8.com/color/48/000000/linux--v1.png"/>  <img 
+src="https://img.icons8.com/fluency/48/000000/flask.svg"/>  
 
 <br>
 
