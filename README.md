@@ -36,8 +36,8 @@ src="https://img.icons8.com/fluency/45/000000/flask.svg"/>  <img src="https://im
 <br>
 <br>
 
-<p align="center"><a href="https://twitter.com/SugoiDesuuU" target="_blank"><img src="https://img.shields.io/badge/SugoiDesuuU%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://instagram.com/_lucas_caua/" target="_blank"><img src="https://img.shields.io/badge/_lucas_caua-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.me/<userhere>" target="_blank"><img src="https://img.shields.io/badge/Owar1%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-<p align="center"><a href="https://twitch.tv/<userhere>" target="_blank"><img src="https://img.shields.io/badge/Owar1%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/Owar1_Chan" target="_blank"><img src="https://img.shields.io/badge/Owar1_Chan%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://instagram.com/_lucas_caua/" target="_blank"><img src="https://img.shields.io/badge/_lucas_caua-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://discord.me/owari#0101" target="_blank"><img src="https://img.shields.io/badge/Owari%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://ko-fi.com/owari_chan" target="_blank"><img src="https://img.shields.io/badge/buy me a coffe%20-%239146FF.svg?&style=for-the-badge&logo=Ko-fi&logoColor=white"/></a></p>
 
 ## 🌼 More About
 
