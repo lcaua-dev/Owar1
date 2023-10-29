@@ -13,7 +13,7 @@
 
 ♂️ <b>Gender:</b> he/his/Male
 
-✨ <b>Hobbys:</b> Whating animes, Play games, Read mangas
+✨ <b>Hobbys:</b> watching animes, Play games, Listen to music
 
 <br>
 
@@ -21,13 +21,10 @@
 <br>
 <img  src="https://giphygifs.s3.amazonaws.com/media/1jgLDGD1Bn27e/giphy.gif" width="150px" align="right" />
 
-<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-css3-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-python-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-html-5-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-javascript-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-git-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-tensorflow-48.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-github.svg"  /><img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-google-cloud.svg"  /><img /> 
+<img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-python-48.svg"  /> <img width="48" height="48" src="https://img.icons8.com/pulsar-line/48/7950F2/forward.png" alt="forward"/> <img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-git-48.svg"  /> <img width="48" height="48" src="https://img.icons8.com/pulsar-line/48/7950F2/forward.png" alt="forward"/> <img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-tensorflow-48.svg"  /> 
+ <img width="48" height="48" src="https://img.icons8.com/pulsar-line/48/7950F2/forward.png" alt="forward"/> <img  src="https://raw.githubusercontent.com/Sug0i/Sug0i/main/images/icons8-github.svg"  /> <img width="48" height="48" src="https://img.icons8.com/pulsar-line/48/7950F2/forward.png" alt="forward"/> <img width="40" height="40" src="https://img.icons8.com/external-sapphire-kerismaker/48/external-SQL-database-server-sapphire-kerismaker.png" alt="external-SQL-database-server-sapphire-kerismaker"  /><img /> 
 
-<img src="https://img.icons8.com/fluency/48/000000/opencv.svg"  />  <img 
-src="https://img.icons8.com/fluency/48/000000/docker.svg"/>  <img 
-src="https://img.icons8.com/external-becris-flat-becris/45/000000/external-r-data-science-becris-flat-becris.png"/>  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.svg"/>   <img 
-src="https://img.icons8.com/color/48/000000/linux--v1.png"/>  <img 
-src="https://img.icons8.com/fluency/45/000000/flask.svg"/>  <img src="https://img.icons8.com/external-flat-juicy-fish/45/null/external-sql-coding-and-development-flat-flat-juicy-fish.svg"/>
+<img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo"/>  <img width="48" height="48" src="https://img.icons8.com/pulsar-line/48/7950F2/forward.png" alt="forward"/> <img width="45" height="45" src="https://img.icons8.com/fluency/48/000000/docker.png" alt="docker"/><img />
 
 <br>
 
