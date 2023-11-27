@@ -20,6 +20,8 @@
 <br>
 
 ## 🚀 Tecnologies
+will be updated
+
 <br>
 <img  src="https://i.gifer.com/origin/e2/e2917a322c5c7247c308d53725f0189f_w200.gif" width="160px" align="right" />  
 
